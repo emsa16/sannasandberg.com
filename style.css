@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  justify-items: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(247, 243, 228);
+}
+
+main {
+  width: 100%;
+  max-width: 800px;
+  background-color: white;
+  padding: 50px 50px 0;
+}

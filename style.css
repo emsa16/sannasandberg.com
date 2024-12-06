@@ -33,6 +33,19 @@ main {
   border-radius: 20px;
 }
 
+.job-title {
+  font-size: 28px;
+}
+
+ul {
+  list-style: none;
+  margin: 44px 0;
+}
+
+li {
+  margin: 8px;
+}
+
 a {
   display: flex;
   flex-direction: column;
